@@ -1,5 +1,5 @@
 ﻿const Discord = require("discord.js");
-const myid = ['ID'];
+const myid = ['413227263941804063'];
 const prefix = ['$'];
 const cmd = require("node-cmd")
 const client = new Discord.Client();
@@ -11,9 +11,10 @@ const client6 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//POULAZ
 
-client.login("");
-client2.login("");
-client3.login("");
+client.login("NzMzNDM0MDc2Mzc5MjE4MDIy.XxDF5g.cfTw0mqGnQbwF5TpQ3EiSzmyOeI");
+client2.login("NzMzNDM1Nzg4MzA5NTYxMzg1.XxDHnw.e11bNPwYCN_3JH6wW2B09BOxank");
+client3.login("NzMzNDM2Nzg2NTU4MTA3NzEy.XxDIXw.9dTBF33lEGLf2EU9j1ZGjnj9F1A"");
+
 client4.login("");
 client5.login("");
 client6.login("");
